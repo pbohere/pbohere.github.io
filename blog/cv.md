@@ -35,8 +35,7 @@
 - [2020](https://www.ijcai.org/proceedings/2020/)
 
 ## TMI
-
 - [最新](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=42)
-## AAAI
 
+## AAAI
 - [搜索](https://ojs.aaai.org/index.php/AAAI/search/search)
